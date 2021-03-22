@@ -1,2 +1,1 @@
 # plain-vanilla
-Quant Analyst
